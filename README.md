@@ -16,20 +16,18 @@ This repository is designed to support the course in three primary ways:
 
 The repository is organized into the following folders.
 
-### Resources
+### 📁Resources
 
 This folder contains supporting materials used throughout the course, including references, datasets, and supplementary readings that complement lecture and lab activities.
 
-### Presentations
+### 📁Presentations
 
 This folder includes lecture slides and presentation materials used during scheduled class meetings.
 
-### Labs
+### 📁Labs
 
 This folder contains the laboratory assignments for the course.  
 Labs are released progressively during the semester.
 
 When a lab is assigned, students should clone the corresponding lab folder into their own working environment and complete the work independently.
-
-Students should not work directly within this main repository for lab assignments.
 
