@@ -1,6 +1,6 @@
 ## EGN6217 Applied Deep Learning | Spring 2026
 
-Welcome to the official GitHub repository for **EGN6217 Applied Deep Learning**. This repository serves as the central hub for all course materials, including resources, lecture presentations, and laboratory assignments for the Spring 2016 semester.
+Welcome to the official GitHub repository for **EGN6217 Applied Deep Learning**. This repository serves as the central hub for all course materials, including resources, lecture presentations, and laboratory assignments for the Spring 2026 semester.
 
 Students are expected to interact with this repository regularly throughout the course.
 
